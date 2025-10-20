@@ -6,8 +6,10 @@ I aim to solve each challenge with efficient, readable code — mainly in **Java
 ---
 
 ## 📁 Structure
+
+```text
 project-euler-solutions/
 ├── README.md
-├── python/      # Python solutions (problem_001.py, problem_002.py, ...)
-├── java/        # Java solutions (Problem001.java, Problem002.java, ...)
+├── python/      # Python solutions (problem_001.py, ...)
+├── java/        # Java solutions (Problem001.java, ...)
 └── notes/       # Mathematical insights and explanations
