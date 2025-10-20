@@ -9,6 +9,7 @@ I aim to solve each challenge with efficient, readable code — mainly in **Java
 project-euler-solutions/
 │
 ├── README.md
-├── python/ → Python solutions (problem_001.py, problem_002.py, ...)
-├── java/ → Java solutions (Problem001.java, Problem002.java, ...)
-└── notes/ → Mathematical insights and explanations
+├── python/     → Python solutions (problem_001.py, problem_002.py, ...)
+├── java/       → Java solutions (Problem001.java, Problem002.java, ...)
+└── notes/      → Mathematical insights and explanations
+
