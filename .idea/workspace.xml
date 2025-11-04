@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45f18ee0-0aee-4d46-bd14-880a018cc797" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/com/projecteuler/solutions/Problem004.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
     &quot;Application.Problem001.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem002.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem004.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.problem_001.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -73,7 +73,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Problem004">
+  <component name="RunManager" selected="Application.Problem005">
     <configuration name="Problem001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem001" />
       <module name="project-euler-solutions" />
@@ -126,8 +126,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem005" />
+      <module name="project-euler-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.projecteuler.solutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem005" />
         <item itemvalue="Application.Problem004" />
         <item itemvalue="Application.Problem003" />
         <item itemvalue="Application.Problem002" />
@@ -137,8 +151,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -153,7 +167,8 @@
       <workItem from="1760958304503" duration="111000" />
       <workItem from="1761681616945" duration="886000" />
       <workItem from="1761682546102" duration="687000" />
-      <workItem from="1762182323395" duration="304000" />
+      <workItem from="1762182323395" duration="794000" />
+      <workItem from="1762183289840" duration="118000" />
     </task>
     <servers />
   </component>
