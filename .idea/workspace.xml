@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45f18ee0-0aee-4d46-bd14-880a018cc797" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/src/com/projecteuler/solutions/Problem006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/com/projecteuler/solutions/Problem007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/com/projecteuler/solutions/Problem008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/com/projecteuler/solutions/Problem009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/com/projecteuler/solutions/Problem071.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project-euler-solutions/com/projecteuler/solutions/Problem005.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project-euler-solutions/com/projecteuler/solutions/Problem005.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,35 +53,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Problem001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem004.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.problem_001.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mahmo/Desktop/UNIVERSITY/Classes/Year 2/IN2015 Professional Development in IT/project-euler-solutions&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Problem001.executor": "Run",
+    "Application.Problem002.executor": "Run",
+    "Application.Problem003.executor": "Run",
+    "Application.Problem004.executor": "Run",
+    "Application.Problem005.executor": "Run",
+    "Application.Problem006.executor": "Run",
+    "Application.Problem007.executor": "Run",
+    "Application.Problem008.executor": "Run",
+    "Application.Problem009.executor": "Run",
+    "Application.Problem071.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.problem_001.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mahmo/Desktop/UNIVERSITY/Classes/Year 2/IN2015 Professional Development in IT/project-euler-solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Problem005">
-    <configuration name="Problem001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem001" />
+}]]></component>
+  <component name="RunManager" selected="Application.Problem071">
+    <configuration name="Problem006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem006" />
       <module name="project-euler-solutions" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem002" />
+    <configuration name="Problem007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem007" />
       <module name="project-euler-solutions" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem003" />
+    <configuration name="Problem008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem008" />
       <module name="project-euler-solutions" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem004" />
+    <configuration name="Problem009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem009" />
       <module name="project-euler-solutions" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem005" />
+    <configuration name="Problem071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.projecteuler.solutions.Problem071" />
       <module name="project-euler-solutions" />
       <extension name="coverage">
         <pattern>
@@ -141,18 +153,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem005" />
-        <item itemvalue="Application.Problem004" />
-        <item itemvalue="Application.Problem003" />
-        <item itemvalue="Application.Problem002" />
+        <item itemvalue="Application.Problem071" />
+        <item itemvalue="Application.Problem009" />
+        <item itemvalue="Application.Problem008" />
+        <item itemvalue="Application.Problem007" />
+        <item itemvalue="Application.Problem006" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -169,6 +182,9 @@
       <workItem from="1761682546102" duration="687000" />
       <workItem from="1762182323395" duration="794000" />
       <workItem from="1762183289840" duration="118000" />
+      <workItem from="1762276951186" duration="386000" />
+      <workItem from="1765575674558" duration="2057000" />
+      <workItem from="1765584479515" duration="473000" />
     </task>
     <servers />
   </component>
